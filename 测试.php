@@ -1,3 +1,3 @@
 <?php
 
-phpinfor();
+echo "Hello,GitHub";
